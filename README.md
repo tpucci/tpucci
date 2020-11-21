@@ -4,7 +4,7 @@
 
 ##### ACTIVE
 
-- **[kstate](https://github.com/tpucci/kstate)** | A Kotlin multiplatform library to create (xstate)[https://xstate.js.org/docs/] like state-machines on any platform (and planning to use it for a (no-nav app)[https://app.livestorm.co/thiga-1/lpcx-online-comment-ameliorer-son-nps-grace-au-no-nav-retour-dexperience-avec-bam]).
+- **[kstate](https://github.com/tpucci/kstate)** | A Kotlin multiplatform library to create [xstate](https://xstate.js.org/docs/) like state-machines on any platform (and planning to use it for a [no-nav app](https://app.livestorm.co/thiga-1/lpcx-online-comment-ameliorer-son-nps-grace-au-no-nav-retour-dexperience-avec-bam)).
 
 ##### ON HOLD
 
@@ -14,4 +14,4 @@
 
 #### 📫 How to reach me
 
-- on [LinkedIn](www.linkedin.com/in/thomaspucci)
+- on [LinkedIn](https://www.linkedin.com/in/thomaspucci)
